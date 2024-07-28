@@ -12,18 +12,6 @@
     "url": "https://www.bilibili.com/"
   },
   {
-    "name": "NodeSeek",
-    "icon": "/images/icon/nodeseek.png",
-    "tip": "去NS看看 ~",
-    "url": "https://www.nodeseek.com/space/148"
-  },
-  {
-    "name": "HostLoc",
-    "icon": "/images/icon/hostloc.png",
-    "tip": "去MJJ看看 ~",
-    "url": "https://hostloc.com/space-uid-53097.html"
-  },
-  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
@@ -34,5 +22,17 @@
     "icon": "/images/icon/telegram.png",
     "tip": "有什么事吗",
     "url": "https://t.me/hostloccbot"
+  },
+  {
+    "name": "NodeSeek",
+    "icon": "/images/icon/nodeseek.png",
+    "tip": "去NS看看 ~",
+    "url": "https://www.nodeseek.com/space/148"
+  },
+  {
+    "name": "HostLoc",
+    "icon": "/images/icon/hostloc.png",
+    "tip": "去MJJ看看 ~",
+    "url": "https://hostloc.com/space-uid-53097.html"
   }
 ]
